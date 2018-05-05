@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstName>Petr</FirstName>
+  <LastName>Petrov</LastName>
+  <MiddleName>Petrovich</MiddleName>
+  <Phone>+380808080800</Phone>
+  <Email>petrov@mailinator.com</Email>
+  <Birthday>1989-04-30T00:00:00</Birthday>
+  <HomeAddress>
+    <AddressLine>3rd Inhul's'ka St, 27</AddressLine>
+    <City>Mykolaiv</City>
+    <State>Mykolaivs'ka oblast</State>
+    <Zip>54000</Zip>
+  </HomeAddress>
+  <WorkAddress>
+    <AddressLine>Viis'kovyi Ln, 6</AddressLine>
+    <City>Kherson</City>
+    <State>Khersons'ka oblast</State>
+    <Zip>73000</Zip>
+  </WorkAddress>
+</ClientInfo>

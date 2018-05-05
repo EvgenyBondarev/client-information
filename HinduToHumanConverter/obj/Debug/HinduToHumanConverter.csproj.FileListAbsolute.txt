@@ -1,0 +1,10 @@
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\bin\Debug\HinduToHumanConverter.exe.config
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\bin\Debug\HinduToHumanConverter.exe
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\bin\Debug\HinduToHumanConverter.pdb
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\obj\Debug\HinduToHumanConverter.csprojResolveAssemblyReference.cache
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\obj\Debug\HinduToHumanConverter.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\obj\Debug\HinduToHumanConverter.exe
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\obj\Debug\HinduToHumanConverter.pdb
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Evgeniy\source\repos\SerializationDeserialization\HinduToHumanConverter\obj\Debug\HinduToHumanConverter.csproj.CopyComplete
